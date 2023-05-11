@@ -1,1 +1,1 @@
-# wordpress-page
+# Wordpress-page-template
